@@ -3,6 +3,6 @@ This is a test score calculator, it will take 5 input values, and calculate the 
 It will also display the letter grade for each input score and the calculated outputs
 
 # Team Members
-Jonathan Espinoza
-Alberto Gonzalez Trujillo
+Jonathan Espinoza,
+Alberto Gonzalez Trujillo,
 Cameron Westlake
